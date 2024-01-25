@@ -1,2 +1,2 @@
-Some python code I wrote will I was bored. Every code is in Code/Old.
-If you want to use the .exe version it's in Code/.exe
+These are some of the python code I wrote when I was bored. You can find them in Old. For newer one, they should be in New.
+If you are looking for the code in a .exe format, they are located in Old/.exe
